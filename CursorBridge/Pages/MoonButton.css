@@ -1,0 +1,38 @@
+#HTMLcontent {
+    display: none;
+    position: absolute;
+}
+
+#CSScontent {
+    position: absolute;
+    display: none;
+    top: 25%;
+    left: 48%;
+    border-radius: 20px;
+}
+
+#HTMLcontent {
+    position: absolute;
+    display: none;
+    top: 25%;
+    left: 48%;
+    border-radius: 20px;
+}
+
+#HTML {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
+#CSS {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 10%;
+    left: 60.5%;
+}
