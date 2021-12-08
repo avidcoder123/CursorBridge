@@ -1,0 +1,106 @@
+#HTMLcontent {
+    display: none;
+    position: absolute;
+}
+
+#CSScontent {
+    position: absolute;
+    display: none;
+    top: 25%;
+    left: 48%;
+    border-radius: 20px;
+}
+
+#HTMLcontent {
+    position: absolute;
+    display: block;
+    top: 25%;
+    left: 48%;
+    border-radius: 20px;
+}
+
+#HTML {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    font-size: 20px;
+    font-family: 'Roberto' sans-serif;
+}
+
+#HTML:hover {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    font-size: 20px;
+    font-family: 'Roberto' sans-serif;
+    background-color: #ee7a7a;
+}
+
+#CSS {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 12%;
+    left: 60.5%;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#CSS:hover {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 12%;
+    left: 60.5%;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ee7a7a;
+}
+
+.Image {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    width: 350px;
+    height: 150px;
+
+}
+
+#IMG {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 12%;
+    left: 71%;
+    font-size: 20px;
+    font-family: 'Roberto' sans-serif;
+}
+
+#IMG :hover {
+    width: 10%;
+    height: 11%;
+    border-radius: 20px;
+    position: absolute;
+    top: 12%;
+    left: 71%;
+    font-size: 20px;
+    font-family: 'Roberto' sans-serif;
+    background-color: #ee7a7a;
+}
+
+#Imgcontent {
+    position: absolute;
+    display: none;
+    top: 40%;
+    left: 48%;
+
+}
