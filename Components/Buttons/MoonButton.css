@@ -20,46 +20,46 @@
 }
 
 #HTML {
-    width: 10%;
-    height: 11%;
+    width: 7%;
+    height: 9%;
     border-radius: 20px;
     position: absolute;
-    top: 12%;
-    left: 50%;
+    top: 16%;
+    left: 49.7%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
 }
 
 #HTML:hover {
-    width: 10%;
-    height: 11%;
+    width: 7%;
+    height: 9%;
     border-radius: 20px;
     position: absolute;
-    top: 12%;
-    left: 50%;
+    top: 16%;
+    left: 49.7%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
     background-color: #ee7a7a;
 }
 
 #CSS {
-    width: 10%;
-    height: 11%;
+    width: 7%;
+    height: 9%;
     border-radius: 20px;
     position: absolute;
-    top: 12%;
-    left: 60.5%;
+    top: 16%;
+    left: 57%;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
 }
 
 #CSS:hover {
-    width: 10%;
-    height: 11%;
+    width: 7%;
+    height: 9%;
     border-radius: 20px;
     position: absolute;
-    top: 12%;
-    left: 60.5%;
+    top: 16%;
+    left: 57%;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     background-color: #ee7a7a;
@@ -75,23 +75,23 @@
 }
 
 #IMG {
-    width: 10%;
-    height: 11%;
+    width: 7%;
+    height: 9%;
     border-radius: 20px;
     position: absolute;
-    top: 12%;
-    left: 71%;
+    top: 16%;
+    left: 64.3%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
 }
 
-#IMG :hover {
-    width: 10%;
-    height: 11%;
+#IMG:hover {
+    width: 7%;
+    height: 9%;
     border-radius: 20px;
     position: absolute;
-    top: 12%;
-    left: 71%;
+    top: 16%;
+    left: 64.3%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
     background-color: #ee7a7a;
@@ -102,5 +102,7 @@
     display: none;
     top: 40%;
     left: 48%;
-
+    font-family: cursive;
+    font-size: 30px;
+    color: black;
 }
