@@ -1,4 +1,17 @@
-.Card {
+.Forestcard {
+
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+
+}
+
+.Mooncard {
 
     background-color: rgb(223, 223, 223);
     width: 280px;
