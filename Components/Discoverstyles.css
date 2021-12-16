@@ -1,3 +1,4 @@
+
 .Forestcard {
 
     background-color: rgb(223, 223, 223);
@@ -6,7 +7,20 @@
     border-radius: 15px;
     position: absolute;
     top: 25%;
-    left: 45%;
+    left: 40%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+
+}
+
+.VolcanoSpikes {
+  
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 25%;
+    left: 65%;
     box-shadow: rgb(134, 134, 134) 0px 0px 25px;
 
 }
@@ -19,7 +33,7 @@
     border-radius: 15px;
     position: absolute;
     top: 25%;
-    left: 20%;
+    left: 15%;
     box-shadow: rgb(134, 134, 134) 0px 0px 25px;
 
 }
