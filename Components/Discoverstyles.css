@@ -1,3 +1,41 @@
+.GamingBtn {
+
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 80%;
+    left: 65%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+
+}
+
+.BreadButton {
+
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+
+}
+
+.PurpleButton {
+
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+
+}
 
 .Forestcard {
 
