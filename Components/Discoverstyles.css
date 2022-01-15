@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
 
+/* SearchButtons */
 .NormalSearch {
     background-color: rgb(223, 223, 223);
     width: 280px;
@@ -11,12 +12,78 @@
     box-shadow: rgb(134, 134, 134) 0px 0px 25px;
 }
 
+.BandW {
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 220%;
+    left: 65%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+}
+
+.PlainRed {
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 220%;
+    left: 40%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+}
+
+.SeaBed {
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 220%;
+    left: 15%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+}
+
+.PinkFrenzy {
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 160%;
+    left: 65%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+}
+
+.THeLavaFlow {
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 160%;
+    left: 40%;
+    box-shadow: rgb(134, 134, 134) 0px 0px 25px;
+}
+
 .SearchImg {
     width: 95%;
     height: 40%;
     position: absolute;
     top: 15%;
     left: 0%;
+}
+
+.Arrow2 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 270%;
+    left: 45%;
+    background-image: url(Buttons/Images/Arrow.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 .Button {
