@@ -3,6 +3,24 @@
     position: absolute;
 }
 
+#Backtxt {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: -6px;
+    left: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#Back {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 35px;
+
+}
+
 #CSScontent {
     position: absolute;
     display: none;
@@ -22,47 +40,53 @@
 #HTML {
     width: 7%;
     height: 9%;
-    border-radius: 20px;
+    border-radius: 10px;
     position: absolute;
     top: 16%;
     left: 49.7%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
+    background-color: #f19999;
+    border-style: none;
 }
 
 #HTML:hover {
     width: 7%;
     height: 9%;
-    border-radius: 20px;
+    border-radius: 10px;
     position: absolute;
     top: 16%;
     left: 49.7%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
     background-color: #ee7a7a;
+    border-style: none;
 }
 
 #CSS {
     width: 7%;
     height: 9%;
-    border-radius: 20px;
+    border-radius: 10px;
     position: absolute;
     top: 16%;
     left: 57%;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
+    background-color: #f19999;
+    border-style: none;
 }
 
 #CSS:hover {
     width: 7%;
     height: 9%;
-    border-radius: 20px;
+    border-radius: 10px;
     position: absolute;
     top: 16%;
     left: 57%;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     background-color: #ee7a7a;
+    border-style: none;
 }
 
 .Image {
@@ -77,24 +101,27 @@
 #IMG {
     width: 7%;
     height: 9%;
-    border-radius: 20px;
+    border-radius: 10px;
     position: absolute;
     top: 16%;
     left: 64.3%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
+    background-color: #f19999;
+    border-style: none;
 }
 
 #IMG:hover {
     width: 7%;
     height: 9%;
-    border-radius: 20px;
+    border-radius: 10px;
     position: absolute;
     top: 16%;
     left: 64.3%;
     font-size: 20px;
     font-family: 'Roberto' sans-serif;
     background-color: #ee7a7a;
+    border-style: none;
 }
 
 #Imgcontent {
@@ -103,6 +130,7 @@
     top: 40%;
     left: 48%;
     font-family: cursive;
-    font-size: 30px;
+    font-size: 25px;
     color: black;
+    text-decoration: none;
 }
