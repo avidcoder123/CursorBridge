@@ -9,7 +9,7 @@
     left: 0%;
     z-index: 99999;
     animation: opacityOn 1s normal forwards;
-    animation-delay: 5s;
+    animation-delay: 3s;
 }
 
 @keyframes opacityOn {

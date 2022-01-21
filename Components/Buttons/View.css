@@ -40,7 +40,7 @@
 
 #HTMLcontent {
     position: absolute;
-    display: block;
+    display: none;
     top: 25%;
     left: 48%;
     border-radius: 20px;
@@ -142,4 +142,38 @@
     font-size: 25px;
     color: black;
     text-decoration: none;
+}
+
+#SVG {
+    width: 7%;
+    height: 9%;
+    border-radius: 10px;
+    position: absolute;
+    top: 16%;
+    left: 71.65%;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f19999;
+    border-style: none;
+}
+
+#SVG:hover {
+    width: 7%;
+    height: 9%;
+    border-radius: 10px;
+    position: absolute;
+    top: 16%;
+left: 71.65%;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ee7a7a;
+    border-style: none;
+}
+
+#SVGcontent {
+    position: absolute;
+    display: none;
+    top: 25%;
+    left: 48%;
+    border-radius: 20px;
 }
