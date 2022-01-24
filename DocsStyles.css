@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+.Button {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    font-size: x-large;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+
+}
+.SearchBar {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    font-size: x-large;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+}
+.Icons {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    font-size: x-large;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+}
+.Other {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    font-size: x-large;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+}
+.navbar {
+
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 15%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    
+}
+
+body {
+    background-color: rgb(250, 196, 196);
+}
+
+.Writing {
+    width: 65%;
+    position: absolute;
+    top: 150%;
+    left: 250px;
+}
+
+.DocsText {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}

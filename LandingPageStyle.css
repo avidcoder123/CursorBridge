@@ -8,6 +8,11 @@
 	left: 85%;
 	z-index: 9999;
 }
+.NavText {
+	text-decoration: none;
+	color: white;
+}
+
 	#Gotext {
 		font-family: "Arial";
 		font-size: 25px;
