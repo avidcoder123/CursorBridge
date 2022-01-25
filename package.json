@@ -1,0 +1,23 @@
+{
+  "name": "cursorbridge",
+  "version": "1.0.0",
+  "description": "This is CursorBridge where you can find the perfect UI for you for your website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerDevv/CursorBridge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangerDevv/CursorBridge/issues"
+  },
+  "homepage": "https://github.com/RangerDevv/CursorBridge#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.16"
+  }
+}
